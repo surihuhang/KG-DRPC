@@ -1,7 +1,7 @@
 # KG-DRPC: A biological knowledge graph computational framework for drug response prediction in cancer cell lines
 KG-DRPC, a novel knowledge graph-based computational framework designed to enhance the prediction of drug responses within cancer cell lines by leveraging the synergy between biological knowledge graphs (KG) and machine learning. KG-DRPC integrates multifaceted biological data, including genomics and pharmacogenomics, to construct a comprehensive KG pertaining to the drug response of cancer cell lines, named CCD-KG. 
 
-The current version (v1.0) of the KG-DRPC model 
+The current version (v1.0) of the KG-DRPC model
 
 
 # Environment set up for training and testing of KG-DRPC
