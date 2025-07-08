@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
 import os
-
 df = pd.read_csv('../Dataset/All.csv')
 folder_path = "../Dataset/Disease_dataset"
 csv_files = [f for f in os.listdir(folder_path) if f.endswith('.csv')]
