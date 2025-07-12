@@ -53,7 +53,7 @@ To make prediction for (cell, drug) pairs of your interest, execute the followin
      
 ## Contact
 
-- Please feel free to contact us if you need any help: [hanghu@stu.ahau.edu.cn]
+- Please feel free to contact us if you need any help: [y80240124@mail.ecust.edu.cn]
 - __Attention__: Only real name emails will be replied. Please provide as much detail as possible about the problem you are experiencing.
 
 
