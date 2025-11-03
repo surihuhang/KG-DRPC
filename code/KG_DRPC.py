@@ -13,6 +13,7 @@ from tensorflow.python.keras.optimizers import Adam,Adagrad,Adamax
 from sklearn.decomposition import PCA
 from tensorflow import keras
 
+
 #load data
 data_all = pd.read_csv('../KG_data/KG_all.txt',delimiter='\t',header=None)
 data_all.columns = ['head','relation','tail']
@@ -228,3 +229,4 @@ for i in range(30):
     stable_metrics['Recall'] = [recall]
     stable_metrics['F1'] = [f1]
     print(stable_metrics)
+
